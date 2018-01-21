@@ -1,0 +1,68 @@
+body{
+  background-color: #00AFEF;
+  color: white;
+}
+header{
+  background-image: url(../img/cabercera.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size:100%;
+}
+.redes{
+	margin: 1 auto;
+}
+#logo{
+  padding: 12% 0 5% 10%;
+  width: 100%
+}
+#bloque{
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+#icono{
+  padding-top: 10rem;
+padding-bottom: 1rem;
+  width: 25px;
+
+}
+
+.navegador{
+  padding-top: 1rem;
+}
+.navegador a{
+  color: #00AFEF;
+}
+.post{
+  text-align: justify;
+}
+#imagen{
+padding-bottom: 5%;
+width: 100%;
+}
+
+#imagen2{
+padding-top: 5%;
+padding-bottom: 5%;
+width: 100%;
+}
+
+.user-coment{
+	font-size: 300%;
+	margin: 0 30%;
+}
+.txtarea{
+	width: 100%;
+	max-height: 100px;
+  color: black;
+}
+.comentarios{
+	padding-top: 10px;
+}
+.comentarios button{
+  background-color: ##086A90;
+}
+.generos{
+  padding-top: 4rem;
+
+}

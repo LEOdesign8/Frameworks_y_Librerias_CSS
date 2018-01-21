@@ -1,0 +1,25 @@
+
+body{
+  background-image: url(../images/El_Rincocito.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-color: black;
+
+}
+.contenedor{
+  background-color: white;
+  opacity: 0.93;
+  width: 90%;
+  margin: auto;
+
+}
+.button
+{
+  background-color: brown;
+}
+
+.color_tex
+{
+color: brown;
+}
